@@ -12,8 +12,8 @@ Houndify API
 IBM Speech to Text
 Snowboy Hotword Detection (works offline)
 Quickstart: pip install SpeechRecognition. See the "Installing" section for more details.
-blob:https://developer.apple.com/1eb5de00-d558-4500-b8fd-a364b9852c14
 
+https://youtu.be/40X2LVPgn0k
 To quickly try it out, run python -m speech_recognition after installing.
 
 Project links:
