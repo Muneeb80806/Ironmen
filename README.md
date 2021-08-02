@@ -13,7 +13,7 @@ IBM Speech to Text
 Snowboy Hotword Detection (works offline)
 Quickstart: pip install SpeechRecognition. See the "Installing" section for more details.
 
-[![Alt text for your video](doc/screenshot_youtube.PNG)](https://video.search.yahoo.com/search/video;_ylt=AwrE19FPKQhh33YAzcRXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj?p=Hot+to+add+videos+of+Speech+Recognition+in+Github&type=E210US1451G0&ei=UTF-8&fr=mcafee&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOVP.d0ldX_ee645iIkvEjr84yAHgFo%26pid%3DApi%26w%3D148%26h%3D78%26c%3D7&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DK_WbsFrPUCk&tit=Speech+Recognition+using+Python&pos=1&vid=24a32b4129e5d839838e39af215ca73c&sigr=eXhUtwMSaw8t&sigt=mzZPkPXG_EIP&sigi=_VgCxc5I1iVk "Put hover text here!")
+[![Alt text for your video](doc/screenshot_youtube.PNG)](https://video.search.yahoo.com/search/video;_ylt=AwrE19FPKQhh33YAzcRXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj?p=Hot+to+add+videos+of+Speech+Recognition+in+Github&type=E210US1451G0&ei=UTF-8&fr=mcafee&turl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOVP.d0ldX_ee645iIkvEjr84yAHgFo%26pid%3DApi%26w%3D148%26h%3D78%26c%3D7&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DK_WbsFrPUCk&tit=Speech+Recognition+using+Python&pos=1&vid=24a32b4129e5d839838e39af215ca73c&sigr=eXhUtwMSaw8t&sigt=mzZPkPXG_EIP&sigi=_VgCxc5I1iVk "Watch This Video To Understand Much Better")
 
 To quickly try it out, run python -m speech_recognition after installing.
 
